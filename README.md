@@ -16,7 +16,7 @@ means we smashed the $\cos$ key on a calculator $n$ times.
 
 For any $x$ we'll quickly approach the same result ($\approx 0.73908513$) every single time.
 
-My math teacher in high school told me that it's probably just a floating-point error but apparently it **really is** the fixed point of the cosine function.
+My math teacher in high school told me that it's probably just a floating-point error but apparently it **really is** the [fixed point of the cosine function](https://en.wikipedia.org/wiki/Dottie_number).
 
 ---
 
